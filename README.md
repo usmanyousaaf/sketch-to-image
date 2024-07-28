@@ -20,6 +20,11 @@ This project leverages Generative Adversarial Networks (GANs) to convert hand-dr
 
 ![sketch to image](https://github.com/user-attachments/assets/f4ae8aad-9195-47c8-96c2-329a9edbdcfd)
 
+![upload pic 6](https://github.com/user-attachments/assets/045c8784-7bbf-46de-bb25-af3de636434f)
+
+![upload pic 5](https://github.com/user-attachments/assets/1b76545a-1532-433e-bdee-e5a4ad75eb8b)
+
+
 ## Installation
 
 1. Clone the repository:
